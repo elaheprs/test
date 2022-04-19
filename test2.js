@@ -1,6 +1,4 @@
-const a = 5
-function mama() {
-  return a + 14
+function plusOne(num) {
+  return num + 1
 }
-//aasd
-console.log(mama())
+console.log(plusOne(12))
