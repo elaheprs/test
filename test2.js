@@ -2,5 +2,5 @@ const a = 5
 function mama() {
   return a + 14
 }
-//a
+//aasd
 console.log(mama())
